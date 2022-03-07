@@ -1,4 +1,4 @@
-<!-- npm init -y
+npm init -y
 npm i express@4.16.4
 DÙng nodemon để mỗi lần đổi code thì server cũng cập nhật theo
 
@@ -29,5 +29,5 @@ Dynamic Pages with template engine:
     Mình dùng query selector để lấy về thông tin query dùng để call api forecast(đã dc viết sẵn) sau đó lại res.send về lại client(viết xong api của mình, khi gọi đến api này nó sẽ trả về res.send 1 object dưới dạng json) để mình có thể fetch nó ở bên client
     Chú ý cái bước res.send({}) là mình gửi dữ liệu trả về từ api mình viết lên client để ng khác fetch => bắt buộc
     Lấy thông tin từ url đó ở client side = fetch(js/app.js)
-     -->
+    
 
