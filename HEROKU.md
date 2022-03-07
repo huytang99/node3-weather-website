@@ -1,4 +1,4 @@
-Đã install heroku cli ở -g
+<!-- Đã install heroku cli ở -g
 - heroku login
 - heroku keys:add Y để set up ssh key cho heroku key
 - heroku create project-name để tạo project heroku
@@ -10,5 +10,5 @@
 git commit -m "Heroku"
 - git push heroku master(check = git remote thì sẽ thấy 2 cái 1 là origin của link github 2 là của heroku)
 
-
+ -->
 
